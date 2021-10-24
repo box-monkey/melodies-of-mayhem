@@ -15,3 +15,9 @@ consolidate repitive code, fix non working items and to add accessibility.
 -added tabindex for keyboard navigation
 -removed repitive applications in css from newly named content-box and benefits 
 
+#### active webpage link
+https://box-monkey.github.io/melodies-of-mayhem/
+
+##### screen shots
+![melodies-of-mayhem](./assets/images/melodies-of-mayhem.png)
+![melodies-of-mayhem](./assets/images/melodies-of-mayhem1.png)
